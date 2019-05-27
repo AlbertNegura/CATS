@@ -3,6 +3,7 @@ Creative Automatic Title from Synopsis generator
 
 Authors: Jonas Molz, Albert Negura
 
+![Alt text](CATS.png?raw=true "Title")
 
 This is a project done as part of the (2018) Natural Language Processing Course at the University of Maastricht.
 
