@@ -1,6 +1,11 @@
 # CATS
 Creative Automatic Title from Synopsis generator
 
+Authors: Jonas Molz, Albert Negura
+
+
+This is a project done as part of the (2018) Natural Language Processing Course at the University of Maastricht.
+
 ## DESCRIPTION
 This system represents an automatic title generator which attempts to utilize various NLP techniques to create a new title for a movie based on the Synopsis / genres provided.
 
