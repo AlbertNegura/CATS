@@ -19,3 +19,9 @@ Datasets used are
 Wikipedia: https://www.kaggle.com/jrobischon/wikipedia-movie-plots
 
 MPST: https://www.kaggle.com/cryptexcode/mpst-movie-plot-synopses-using-tags
+
+## NOTEBOOKS
+The following notebooks are available in this repo:
+
+1. CATS-MAIN: contains all the preprocessing steps that have been / can be done with the data. Will (hopefully) contain the generator.
+2. GenrePredictor: predicts the genre based on the synopsis using a simple Multinomial Naive Bayes model.
