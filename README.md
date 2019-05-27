@@ -15,5 +15,7 @@ This weight is then utilized when automatically selecting a random number of wor
 
 ## DATASETS
 Datasets used are 
+
 Wikipedia: https://www.kaggle.com/jrobischon/wikipedia-movie-plots
+
 MPST: https://www.kaggle.com/cryptexcode/mpst-movie-plot-synopses-using-tags
