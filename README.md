@@ -32,4 +32,5 @@ The following notebooks are available in this repo:
 ## MODELS
 
 ## RESULTS
+A few RAM issues on training the model used.
 ![Alt text](chrome_2019-05-27_19-44-12.png?raw=true "Title")
