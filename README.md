@@ -20,8 +20,15 @@ Wikipedia: https://www.kaggle.com/jrobischon/wikipedia-movie-plots
 
 MPST: https://www.kaggle.com/cryptexcode/mpst-movie-plot-synopses-using-tags
 
+The summaries on the datasets contain a variety of words, with names being the most prominant for every movie. Furthermore, some words (adverbs or articles such as 'the') have a much higher frequency than most other words (a few hundred fold increase in most cases).
+
+
 ## NOTEBOOKS
 The following notebooks are available in this repo:
 
 1. CATS-MAIN: contains all the preprocessing steps that have been / can be done with the data. Will (hopefully) contain the generator.
 2. GenrePredictor: predicts the genre based on the synopsis using a simple Multinomial Naive Bayes model.
+
+## MODELS
+
+## RESULTS
