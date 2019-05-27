@@ -27,10 +27,16 @@ The summaries on the datasets contain a variety of words, with names being the m
 The following notebooks are available in this repo:
 
 1. CATS-MAIN: contains all the preprocessing steps that have been / can be done with the data. Will (hopefully) contain the generator.
+
 2. GenrePredictor: predicts the genre based on the synopsis using a simple Multinomial Naive Bayes model.
 
 ## MODELS
 
+## DOWNLOAD
+All of the models / datasets / embeddings (+ figures + notebooks) can be downloaded from this link:
+https://drive.google.com/drive/folders/1Y_gj1PWEtBZbNSoc2VpmRhNXSalgD8sy?usp=sharing
+
 ## RESULTS
 A few RAM issues on training the model used.
+
 ![Alt text](chrome_2019-05-27_19-44-12.png?raw=true "Title")
