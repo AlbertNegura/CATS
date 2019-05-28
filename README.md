@@ -105,6 +105,7 @@ Handpicked Titles:
 | ------------- |:-------------:|:----- |
 | 28 Weeks Later | During the original outbreak of the Rage Virus, Don, his wife Alice and four more survivors hide in a barricaded cottage on the outskirts of London. They hear a terrified boy... | Happy Country |
 | The Starving Games | Kantmiss Evershot practices archery in the forest, but her boyfriend, Dale, surprises her; the arrow accidentally hits the Wizard of Oz. They return to District 12, where... | Sequel: Macho Dawn |
+| This World, Then the Fireworks | As children, Marty and Carol Lakewood, fraternal twins, witness a brutal murder involving their father. They grow up to become depraved and incestuous adults... | Play Princess |
 | Endless Love | In suburban Chicago, teenagers Jade Butterfield and David Axelrod fall in love after they are introduced by Jade\'s brother Keith. Jade\'s family is known...| Dangerous Man/Underworld |
 | Agnes of God | In a Roman Catholic convent near Montreal, Quebec, Canada, during evening prayers, the nuns hear screams coming from ther oom of Sister Agnes, a young novice.Agnes is found in her room bleeding profusely...     |  Johnny Boy/Holiday |
 | Nowhere to Run | In rural Texas, 1960 an age of good times and innocence, when growing up was supposed to be easy six high school seniors know the terrible secret...      | Keeps Zoo Enchanted/Walk Two |
