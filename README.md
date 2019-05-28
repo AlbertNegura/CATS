@@ -114,6 +114,7 @@ Handpicked Titles:
 | Predators | Royce awakens to find himself parachuting into an unfamiliar jungle. He meets several others who arrived in the same manner: Mexican drug cartel enforcer Cuchillo, Spetsnaz... | Roommates |
 | Amadeus | An elderly Antonio Salieri confesses to the murder of his former colleague, Wolfgang Amadeus Mozart, and attempts to kill himself by slitting his throat. Two servants take him to a mental... | Lucky Woman Oprah |
 | Phil the Alien | Phil is an extraterrestrial with shape-shifting ability and telekinetic powers. After crash-landing in Northern Ontario, Phil befriends a red neck child, his father, and... | (The) Story |
+| Her Master's Voice | A wealthy woman moves her niece to her estate and away from her niece's jobless husband, who the aunt believes is a worthless bum. Through a misunderstanding, the husband is hired to work at the estate... | Married (a) Great Devil |
 | The Secret Life of Happy People | Thomas Dufresne (Paquet) is the black sheep of his bourgeois family. One day, he meets a free-spirited waitress named Audrey (Catherine Deléan) who changes his life... | Rose Life |
 | Non-Stop | Two U.S. Air Marshals, Jack Hammond and alcoholic Bill Marks, separately board a British Aqualantic Airlines Boeing 767 from New York City to London. Marks sits next to Jen... | Island Love |
 | The Coca-Cola Kid | Becker, a hotshot American marketing executive (played by Roberts) from The Coca-Cola Company, visits their Australian operations in Sydney and tries... | The Broadway Man |
