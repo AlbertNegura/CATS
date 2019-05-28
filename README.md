@@ -3,7 +3,7 @@ Creative Automatic Title from Synopsis generator
 
 Authors: Jonas Molz, Albert Negura
 
-![Alt text](CATS.jpg?raw=true "Title")
+![Alt text](Pics/CATS.jpg?raw=true "Title")
 
 This is a project done as part of the (2018) Natural Language Processing Course at the University of Maastricht.
 
@@ -16,7 +16,7 @@ This weight is then intended to be passed as an input to an RNN (LSTM) as descri
 
 The system currently follows the flowchart on the left, and is intended to follow the flowchart on the right:
 
-![Alt text](Process.png?raw=true "Title")
+![Alt text](Pics/Process.png?raw=true "Title")
 
 ## DATASETS
 Datasets used are 
@@ -27,7 +27,7 @@ MPST: https://www.kaggle.com/cryptexcode/mpst-movie-plot-synopses-using-tags
 
 The summaries on the datasets contain a variety of words, with names being the most prominent for every movie. Furthermore, some words (adverbs or articles such as 'the') have a much higher frequency than most other words (a few hundred fold increase in most cases).
 
-![Alt text](WordDistribution.png?raw=true "Title")
+![Alt text](Pics/WordDistribution.png?raw=true "Title")
 
 ## NOTEBOOKS
 The following notebooks are available in this repo:
@@ -43,4 +43,4 @@ https://drive.google.com/drive/folders/1Y_gj1PWEtBZbNSoc2VpmRhNXSalgD8sy?usp=sha
 
 A few RAM issues on training the model used.
 
-![Alt text](chrome_2019-05-27_19-44-12.png?raw=true "Title")
+![Alt text](Pics/chrome_2019-05-27_19-44-12.png?raw=true "Title")
