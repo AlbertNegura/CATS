@@ -125,7 +125,7 @@ Handpicked Titles:
 | Tarantula | A severely deformed man stumbles through the Arizona desert, falls and dies. Dr. Matt Hastings, a doctor in the nearby mall... | Cross Man |
 | Little Shop of Horrors | A three-girl "Greek chorus" Crystal, Ronnette, and Chiffon introduce the movie, warning the audience that some horror is coming their way... | Farb/Stoolie | 
 | Frankenstein | In a European village, a young scientist, named Henry Frankenstein, and his assistant Fritz, a hunchback, piece together a human body, the parts of which have been collected... | Cry |
-| Just for Fun | When English teenagers win the right to vote, the established political parties compete for their support. However, when the Prime Minister cuts... | Old Time/Dim Moon/Shrike |
+| Just for Fun | When English teenagers win the right to vote, the established political parties compete for their support. However, when the Prime Minister cuts... | Old Time/Dim Moon/Shrike/Hot |
 | Voice in the Wind | Jan Foley (Lederer), an amnesiac Czech pianist, is a victim of Nazi torture for playing a banned song. Living under a new identity on the island of French-governed Guadalupe, Jan tries to... | Incredible Granach/Frankenstein |
 | For Those in Peril | Aspiring RAF pilot Pilot Officer Rawlings (Ralph Michael) fails to make the grade in training and grudgingly accepts the alternative of joining the crew of Launch 183... | Mundanity/Love Love |
 | Now and Forever | A lazy and irresponsible Jerry Day (Gary Cooper), desperate for quick cash, is willing to sell the custody rights of his 6-year-old daughter Penelope, nicknamed Penny... | Wings Green/Silver Secret/Submarine |
