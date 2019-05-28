@@ -68,6 +68,34 @@ Usually, training the models requires a significant amount of RAM. This message 
 ![Alt text](Pics/chrome_2019-05-27_19-44-12.png?raw=true "Title")
 
 ## EXAMPLES
+Genre Classification can be overfit very easily, mostly due to class imbalance. Tag generation suffers from a similar effect, although partly because the network has been undertrained due to memory issues.
+
+Handpicked Genres:
+
+| Movie Title   | Actual Genres | Generated Genres | Actual Tags | Generated Tags |
+| ------------- |:-------------:|:-----------------|:------------|:---------------|
+| Deadpool | Thriller | Sports/Comedy, Horror Thriller, Action/Fantasy | Violence, Humor | Murder, Violence, Revenge |
+| Scarface | Crime, Drama | Anthology Film, Horror Thriller, Action/Fantasy | Cruelty, Murder, Dramatic, Cult, Violence, Atmospheric, Action, Romantic, Revenge, Sadist| Murder, Violence, Revenge |
+| The Mummy (1999) | Action | Sports/Comedy, Horror Thriller, Action/Fantasy | Revenge | Murder, Violence, Revenge |
+| Iron Man 2 | Superhero | Sports/Comedy, Horror Thriller, Action/Fantasy | Good versus Evil, Violence | Murder, Violence, Revenge |
+| The Godfather II | Crime/Drama | Sports/Comedy, Horror Thriller, Action/Fantasy | Violence, Humor, Murder | Murder, Violence, Revenge |
+| Les Misérables | Period Drama | Sports/Comedy, Horror Thriller, Action/Fantasy | Satire | Murder, Violence, Revenge |
+| We're the Millers | Comedy | Anthology Film, Horror Thriller, Action/Fantasy | Humor | Murder, Violence, Revenge |
+
+Example Output:
+
+Best prediction for Genres: 
+
+['sports/comedy', 'horror thriller', 'action, fantasy']
+
+Actual Genres: 
+
+['violence, humor']
+
+Title: 
+
+['Deadpool']
+
 Note that the generated titles do not contain common English adverbs and articles (the, for, of, just, etc.).
 Handpicked Titles:
 
