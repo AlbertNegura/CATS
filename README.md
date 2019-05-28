@@ -73,8 +73,7 @@ Handpicked Titles:
 
 | Movie Title   | Synopsis Preview | Generated Titles  |
 | ------------- |:-------------:|:----- |
-| Endless Love | In suburban Chicago, teenagers Jade Butterfield and David Axelrod fall in love after they are introduced by Jade\'s brother Keith. Jade\'s family is known...| Dangerous 
-Man/Underworld |
+| Endless Love | In suburban Chicago, teenagers Jade Butterfield and David Axelrod fall in love after they are introduced by Jade\'s brother Keith. Jade\'s family is known...| Dangerous Man/Underworld |
 | Agnes of God | In a Roman Catholic convent near Montreal, Quebec, Canada, during evening prayers, the nuns hear screams coming from ther oom of Sister Agnes, a young novice.Agnes is found in her room bleeding profusely...     |  Johnny Boy/Holiday |
 | Nowhere to Run | In rural Texas, 1960 an age of good times and innocence, when growing up was supposed to be easy six high school seniors know the terrible secret...      | Keeps Zoo Enchanted/Walk Two |
 | Tarantula | A severely deformed man stumbles through the Arizona desert, falls and dies. Dr. Matt Hastings, a doctor in the nearby mall... | Cross Man |
