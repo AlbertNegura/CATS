@@ -27,7 +27,7 @@ MPST: https://www.kaggle.com/cryptexcode/mpst-movie-plot-synopses-using-tags
 
 The summaries on the datasets contain a variety of words, with names being the most prominent for every movie. 
 
-![Alt text](Pics/breakup.png?raw=true "Title")
+![Alt text](Pics/Break_Up_WordCloud.png?raw=true "Title")
 
 Furthermore, some words (adverbs or articles such as 'the') have a much higher frequency than most other words (a few hundred fold increase in most cases).
 
