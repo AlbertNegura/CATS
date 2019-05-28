@@ -511,6 +511,7 @@ HEAD: weeks later
 DESC: original outbreak rage virus wife alice four survivors hide barricaded cottage outskirts london hear terrified boy pounding door let minutes later discover infected followed boy infected attack kill survivors alice boy chased upstairs pleads alice abandon boy refuses abandons infected break room busting window sprints nearby motorboat narrowly escaping tussle recently turned survivor infected begin die starvation nato forces take control britain twenty eight weeks outbreak american commanded force command brigadier general stone brings settlers
 HEADS:
 4.599842190742493 <0>^
+15.057554487138987 happy country
 Iteration 56
 Epoch 1/1
 93/93 [==============================] - 211s 2s/step - loss: 5.0105 - val_loss: 5.8884
