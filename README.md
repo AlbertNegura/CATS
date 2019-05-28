@@ -81,6 +81,7 @@ Handpicked Genres:
 | The Godfather II | Crime/Drama | Sports/Comedy, Horror Thriller, Action/Fantasy | Violence, Humor, Murder | Murder, Violence, Revenge |
 | Les Misérables | Period Drama | Sports/Comedy, Horror Thriller, Action/Fantasy | Satire | Murder, Violence, Revenge |
 | We're the Millers | Comedy | Anthology Film, Horror Thriller, Action/Fantasy | Humor | Murder, Violence, Revenge |
+| The Texas Chainsaw Massacre | Horror | Anthology Film, Horror Thriller, Action/Fantasy | Revenge, Murder, Violence, Flashback | Murder, Violence, Revenge |
 
 Example Output:
 
@@ -90,7 +91,7 @@ Best prediction for Genres:
 
 Actual Genres: 
 
-['violence, humor']
+['thriller']
 
 Title: 
 
