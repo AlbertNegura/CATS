@@ -63,7 +63,7 @@ For generating titles, Lopyrev's model was used and trained on
 
 ![Alt text](Pics/TrainingLoss.png?raw=true "Title")
 
-Usually, training the models requires a significant amount of RAM. This message appeared far too often minutes or, sometimes, hours into the training. A beefy machine is necessary for Lopyrev's model.
+Usually, training the models requires a significant amount of RAM. This message appeared far too often minutes or, sometimes, hours into the training. A beefy machine is necessary for Lopyrev's or Kar et. al's model.
 
 ![Alt text](Pics/chrome_2019-05-27_19-44-12.png?raw=true "Title")
 
