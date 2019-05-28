@@ -97,6 +97,9 @@ Title:
 
 ['Deadpool']
 
+![Alt text](Pics/network.png?raw=true "Clearly the tag-generation had a problem with humanity...")
+
+
 Note that the generated titles do not contain common English adverbs and articles (the, for, of, just, etc.).
 
 Handpicked Titles:
@@ -106,6 +109,7 @@ Handpicked Titles:
 | 28 Weeks Later | During the original outbreak of the Rage Virus, Don, his wife Alice and four more survivors hide in a barricaded cottage on the outskirts of London. They hear a terrified boy... | Happy Country |
 | The Starving Games | Kantmiss Evershot practices archery in the forest, but her boyfriend, Dale, surprises her; the arrow accidentally hits the Wizard of Oz. They return to District 12, where... | Sequel: Macho Dawn |
 | Non-Stop | Two U.S. Air Marshals, Jack Hammond and alcoholic Bill Marks, separately board a British Aqualantic Airlines Boeing 767 from New York City to London. Marks sits next to Jen... | Island Love |
+| Robin and Marian | An aging Robin Hood is a trusted captain fighting for King Richard the Lionheart in France, the Crusades long over. Richard orders him to take a castle that is rumoured to... | Big Angel Valley Takes Breaking |
 | From Hell it Came | A South Seas island prince is wrongly convicted of murder and executed by having a knife driven into his heart, the result of a plot by a witch doctor (the true murderer)... | Nobody Happy |
 | This World, Then the Fireworks | As children, Marty and Carol Lakewood, fraternal twins, witness a brutal murder involving their father. They grow up to become depraved and incestuous adults... | Play Princess |
 | Endless Love | In suburban Chicago, teenagers Jade Butterfield and David Axelrod fall in love after they are introduced by Jade\'s brother Keith. Jade\'s family is known...| Dangerous Man/Underworld |
