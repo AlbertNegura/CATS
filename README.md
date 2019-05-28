@@ -116,6 +116,8 @@ Handpicked Titles:
 | Phil the Alien | Phil is an extraterrestrial with shape-shifting ability and telekinetic powers. After crash-landing in Northern Ontario, Phil befriends a red neck child, his father, and... | (The) Story |
 | The Secret Life of Happy People | Thomas Dufresne (Paquet) is the black sheep of his bourgeois family. One day, he meets a free-spirited waitress named Audrey (Catherine Deléan) who changes his life... | Rose Life |
 | Non-Stop | Two U.S. Air Marshals, Jack Hammond and alcoholic Bill Marks, separately board a British Aqualantic Airlines Boeing 767 from New York City to London. Marks sits next to Jen... | Island Love |
+| The Coca-Cola Kid | Becker, a hotshot American marketing executive (played by Roberts) from The Coca-Cola Company, visits their Australian operations in Sydney and tries... | The Broadway Man |
+| The Bubble Boy | Born without an immune system, Jimmy Livingston is forced to live in a sterilized dome in his bedroom, earning him the nickname "Bubble Boy" by his neighbors. Jimmy's overbearing and devout... | The Angel of Love Four |
 | Two Men Went to War | Sergeant Peter King and Private Leslie Cuthbertson of the Royal Army Dental Corps passionately desire to see active service, but are held back. Armed with two revolvers... | Doraemon: White Trouble Love |
 | Robin and Marian | An aging Robin Hood is a trusted captain fighting for King Richard the Lionheart in France, the Crusades long over. Richard orders him to take a castle that is rumoured to... | Big Angel Valley Takes Breaking |
 | From Hell it Came | A South Seas island prince is wrongly convicted of murder and executed by having a knife driven into his heart, the result of a plot by a witch doctor (the true murderer)... | Nobody Happy |
