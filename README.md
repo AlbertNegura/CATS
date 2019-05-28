@@ -97,7 +97,8 @@ Title:
 
 ['Deadpool']
 
-![Alt text](Pics/network.png?raw=true "Clearly the tag-generation had a problem with humanity...")
+### Clearly the tag-generation has a problem with humanity...
+![Alt text](Pics/network.png?raw=true "Avoid making it self-aware!")
 
 
 Note that the generated titles do not contain common English adverbs and articles (the, for, of, just, etc.).
