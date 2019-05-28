@@ -101,7 +101,9 @@ Example Output of Title Generation Network:
 'Mannix' is often generated as the title of the movie. A preliminary analysis reveals that 'Mannix' is the most dissimilar word to all others in the corpus, so the network decides to choose it when it cannot "think" of a good alternative.
 
 Sometimes, the network has a sense of humour:
+
 28 Weeks Later (horror movie) -> Happy Country
+
 The Starving Games (parody movie) -> Sequel: Macho Dawn
 
 ## DOWNLOAD
