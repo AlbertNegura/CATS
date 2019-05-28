@@ -126,6 +126,7 @@ Handpicked Titles:
 | Agnes of God | In a Roman Catholic convent near Montreal, Quebec, Canada, during evening prayers, the nuns hear screams coming from ther oom of Sister Agnes, a young novice.Agnes is found in her room bleeding profusely...     |  Johnny Boy/Holiday |
 | Nowhere to Run | In rural Texas, 1960 an age of good times and innocence, when growing up was supposed to be easy six high school seniors know the terrible secret...      | Keeps Zoo Enchanted/Walk Two |
 | Tarantula | A severely deformed man stumbles through the Arizona desert, falls and dies. Dr. Matt Hastings, a doctor in the nearby mall... | Cross Man |
+| Care Bears: Journey to Joke-a-lot | The Care Bears live in a cloud-filled land known as Care-a-lot ("With All Your Heart"). One of the Bears, Grumpy, is working on a rainbow carousel for the upcoming... | Dick Sands Master: East Island Bidel |
 | Little Shop of Horrors | A three-girl "Greek chorus" Crystal, Ronnette, and Chiffon introduce the movie, warning the audience that some horror is coming their way... | Farb/Stoolie | 
 | Frankenstein | In a European village, a young scientist, named Henry Frankenstein, and his assistant Fritz, a hunchback, piece together a human body, the parts of which have been collected... | Cry |
 | Just for Fun | When English teenagers win the right to vote, the established political parties compete for their support. However, when the Prime Minister cuts... | Old Time/Dim Moon/Shrike/Hot |
