@@ -111,6 +111,7 @@ Handpicked Titles:
 | 28 Weeks Later | During the original outbreak of the Rage Virus, Don, his wife Alice and four more survivors hide in a barricaded cottage on the outskirts of London. They hear a terrified boy... | Happy Country |
 | The Starving Games | Kantmiss Evershot practices archery in the forest, but her boyfriend, Dale, surprises her; the arrow accidentally hits the Wizard of Oz. They return to District 12, where... | Sequel: Macho Dawn |
 | The Matrix | Computer programmer Thomas Anderson, living a double life as the hacker "Neo", feels something is wrong with the world and is puzzled by repeated online encounters with the cryptic phrase... | Private Death Man |
+| Predators | Royce awakens to find himself parachuting into an unfamiliar jungle. He meets several others who arrived in the same manner: Mexican drug cartel enforcer Cuchillo, Spetsnaz... | Roommates |
 | Non-Stop | Two U.S. Air Marshals, Jack Hammond and alcoholic Bill Marks, separately board a British Aqualantic Airlines Boeing 767 from New York City to London. Marks sits next to Jen... | Island Love |
 | Two Men Went to War | Sergeant Peter King and Private Leslie Cuthbertson of the Royal Army Dental Corps passionately desire to see active service, but are held back. Armed with two revolvers... | Doraemon: White Trouble Love |
 | Robin and Marian | An aging Robin Hood is a trusted captain fighting for King Richard the Lionheart in France, the Crusades long over. Richard orders him to take a castle that is rumoured to... | Big Angel Valley Takes Breaking |
