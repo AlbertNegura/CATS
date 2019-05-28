@@ -138,6 +138,7 @@ Handpicked Titles:
 | For Those in Peril | Aspiring RAF pilot Pilot Officer Rawlings (Ralph Michael) fails to make the grade in training and grudgingly accepts the alternative of joining the crew of Launch 183... | Mundanity/Love Love |
 | Now and Forever | A lazy and irresponsible Jerry Day (Gary Cooper), desperate for quick cash, is willing to sell the custody rights of his 6-year-old daughter Penelope, nicknamed Penny... | Wings Green/Silver Secret/Submarine |
 | The Las Vegas Story |Happy (Hoagy Carmichael), as the piano player at the Last Chance casino in Las Vegas, wonders what split up Linda Rollins (Jane Russell) and Dave Andrews (Victor Mature)... | Go Black |
+| Mega Shark versus Mecha Shark | A tugboat pulling a huge iceberg arrives at a port in Alexandria, Egypt, when suddenly, the iceberg shatters and releases a megalodon from suspended animation. | Bad World / Lady Love |
 
 
 Example Output of Title Generation Network:
