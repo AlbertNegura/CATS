@@ -73,6 +73,7 @@ Handpicked Titles:
 
 | Movie Title   | Synopsis Preview | Generated Titles  |
 | ------------- |:-------------:|:----- |
+| 28 Weeks Later | During the original outbreak of the Rage Virus, Don, his wife Alice and four more survivors hide in a barricaded cottage on the outskirts of London. They hear a terrified boy... | Happy Country |
 | Endless Love | In suburban Chicago, teenagers Jade Butterfield and David Axelrod fall in love after they are introduced by Jade\'s brother Keith. Jade\'s family is known...| Dangerous Man/Underworld |
 | Agnes of God | In a Roman Catholic convent near Montreal, Quebec, Canada, during evening prayers, the nuns hear screams coming from ther oom of Sister Agnes, a young novice.Agnes is found in her room bleeding profusely...     |  Johnny Boy/Holiday |
 | Nowhere to Run | In rural Texas, 1960 an age of good times and innocence, when growing up was supposed to be easy six high school seniors know the terrible secret...      | Keeps Zoo Enchanted/Walk Two |
@@ -83,7 +84,7 @@ Handpicked Titles:
 | Voice in the Wind | Jan Foley (Lederer), an amnesiac Czech pianist, is a victim of Nazi torture for playing a banned song. Living under a new identity on the island of French-governed Guadalupe, Jan tries to... | Incredible Granach/Frankenstein |
 | For Those in Peril | Aspiring RAF pilot Pilot Officer Rawlings (Ralph Michael) fails to make the grade in training and grudgingly accepts the alternative of joining the crew of Launch 183... | Mundanity/Love Love |
 | Now and Forever | A lazy and irresponsible Jerry Day (Gary Cooper), desperate for quick cash, is willing to sell the custody rights of his 6-year-old daughter Penelope, nicknamed Penny... | Wings Green/Silver Secret/Submarine |
-
+| The Las Vegas Story |Happy (Hoagy Carmichael), as the piano player at the Last Chance casino in Las Vegas, wonders what split up Linda Rollins (Jane Russell) and Dave Andrews (Victor Mature)... | Go Black |
 
 
 Example Output of Title Generation Network:
