@@ -46,13 +46,13 @@ The following notebooks are available in this repo:
 
 2. [GenrePredictor.ipynb](https://github.com/FireLionX/CATS/blob/master/GenrePredictor.ipynb): contains a Python 3 implementation of the Lopyrev model, which attempts to generate a title based on the synopsis. Was supposed to contain a genre-based approach to generating a headline.
 
-3. [vocabulary-embedding.ipynb](https://github.com/udibr/headlines): Python2: generates pickle dumps containing processed training data and initialized embedding.
+3. [vocabulary-embedding.ipynb](https://github.com/udibr/headlines): Python2: generates pickle dumps containing processed training data and initialized embedding. Code originally at https://github.com/udibr/headlines (this is a modified version).
 
-4. [train.ipynb](https://github.com/udibr/headlines): Python2: trains a network for Lopyrev's model, generating titles from the synopsis of movies, and saves the model.
+4. [train.ipynb](https://github.com/udibr/headlines): Python2: trains a network for Lopyrev's model, generating titles from the synopsis of movies, and saves the model. Code originally at https://github.com/udibr/headlines (this is a modified version).
 
-5. [predict.ipynb](https://github.com/udibr/headlines): Python2: generates predictions based on the saved Lopyrev model.
+5. [predict.ipynb](https://github.com/udibr/headlines): Python2: generates predictions based on the saved Lopyrev model. Code originally at https://github.com/udibr/headlines (this is a modified version).
 
-6. [kar_et_al_tag_generator.ipynb](https://github.com/cryptexcode/folksonomication_source): generates tags based on Kar's model, which can then be used in conjunction with the genre classifier to generate headlines.
+6. [kar_et_al_tag_generator.ipynb](https://github.com/cryptexcode/folksonomication_source): generates tags based on Kar's model, which can then be used in conjunction with the genre classifier to generate headlines. 
 
 ## MODELS
 For Genre Classification, MultinomialNB was the primary model used. It has high accuracy on most genres, with decreasing accuracy depending on how common the genre is in the training dataset used.
